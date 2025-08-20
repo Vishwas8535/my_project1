@@ -1,4 +1,9 @@
 Professionally into CICD.
 Passionate into DevOps.
+
 Terraform is a IaC tool.
-Ansible Infra as config.
+Ansible Infra as config
+
+
+Terraform is a IaC tool.
+
