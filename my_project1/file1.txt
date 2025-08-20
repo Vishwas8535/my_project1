@@ -1,2 +1,3 @@
-Professionally into CICD
-Passionate into DevOps
+Professionally into CICD.
+Passionate into DevOps.
+Terraform is a IaC tool.
